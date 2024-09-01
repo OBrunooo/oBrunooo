@@ -1,19 +1,18 @@
-<h2 align="left">Olá ! Me chamo Bruno</h2>
+<h2 align="center">Bem vindo(a) ao meu perfil !!!</h2>
 
-###
 
-<br clear="both">
+<p>Me chamo Bruno, sou estudante de Sistemas de informação na faculdade UNESC de Colatina-ES. Atualmente estudo de forma paralela um curso de desenvolvimento Full-stack. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OBrunooo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OBrunooo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
+#
 
-###
+<img align="right" alt="" height="190px" src="https://media1.tenor.com/m/U5Zg2w2ngjkAAAAC/wall-e-pixar.gif">
 
-<img align="right" height="0" src=""  />
+<h3 align="left">Entre em contato</h3>
 
-###
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=45BF86&color:FFF)](mailto:mailto:brunogmr07@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=45BF86&color:FFF)](https://www.linkedin.com/in/bruno-gomes-melo/)
+
+<h3>Skills</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -29,22 +28,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
 </div>
 
-###
+#
+<h3 align="center" > GitHub Stats </h3>
 
-<br clear="both">
-
-<div align="left">
-  <a href="mailto:brunogmr07@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/bruno-gomes-melo/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OBrunooo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OBrunooo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<br clear="both">
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OBrunooo/OBrunooo/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OBrunooo/OBrunooo/output/github-contribution-grid-snake-dark.svg">
