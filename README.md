@@ -5,7 +5,7 @@
 
 #
 
-<img align="right" alt="" height="190px" src="https://media1.tenor.com/m/U5Zg2w2ngjkAAAAC/wall-e-pixar.gif">
+<img align="right" alt="" height="190px" src="wall-e.gif">
 
 <h3 align="left">Entre em contato</h3>
 
